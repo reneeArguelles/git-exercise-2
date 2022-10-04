@@ -1,0 +1,20 @@
+{
+  "name": "git-exercise-2",
+  "version": "1.0.0",
+  "description": "JavaScript and NPM modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneeArguelles/git-exercise-2.git"
+  },
+  "keywords": [],
+  "author": "Mary Renee Arguelles <mary.arguelles@siteminder.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneeArguelles/git-exercise-2/issues"
+  },
+  "homepage": "https://github.com/reneeArguelles/git-exercise-2#readme"
+}
