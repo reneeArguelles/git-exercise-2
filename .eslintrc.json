@@ -1,0 +1,21 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": "airbnb-base",
+    "overrides": [
+        {
+            "files": ["**/*.js", "**/*.mjs"]
+        }
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+        "semi": ["error", "never"],
+        "no-console": "off",
+        "import/extensions": ["error", "ignorePackages"]
+    }
+}
